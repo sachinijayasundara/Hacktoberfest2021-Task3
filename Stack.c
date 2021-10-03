@@ -8,6 +8,7 @@ int size,choice,ele;
 struct stack{
     int arr[100];
     int top;
+    int rear;
 
 }st;
 
